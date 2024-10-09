@@ -36,8 +36,8 @@ main .personagem .imagem {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 100vh;
-    max-width: 380px;
+    min-height: 110vh;
+    max-width: 430px;
     z-index: 1;
 }
 
@@ -53,6 +53,7 @@ main .personagem .imagem {
     color: #ffffff;
     font-family: "Rubik";
     line-height: 24px;
+    text-align: justify;
 }
 
 .conteudo .logo {
